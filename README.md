@@ -11,6 +11,7 @@
 It originated as an open-source fork of [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js), before their switch to a non-OSS license in December 2020. The library's initial versions (1.x) were intended to be a drop-in replacement for the Mapbox’s OSS version (1.x) with additional functionality, but have evolved a lot since then.
 
 ## Getting Started
+## By Mudassir Alam
 
 Include the JavaScript and CSS files in the `<head>` of your HTML file.
 
